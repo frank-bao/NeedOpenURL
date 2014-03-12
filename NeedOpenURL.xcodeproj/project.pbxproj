@@ -461,6 +461,7 @@
 				418BBF2F18CED3FA00F14387 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		418BBF3018CED3FA00F14387 /* Build configuration list for PBXNativeTarget "NeedOpenURLTests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +470,7 @@
 				418BBF3218CED3FA00F14387 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

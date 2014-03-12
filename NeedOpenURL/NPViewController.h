@@ -9,5 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface NPViewController : UIViewController
-
+{
+    IBOutlet UILabel *label;
+}
 @end
